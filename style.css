@@ -1,0 +1,37 @@
+/*Style categori*/
+.img-categori {
+  width: 50px;
+}
+
+.font-categori {
+  color: #141414;
+  font-weight: 550;
+  font-family: "Hind Madurai", sans-serif;
+  text-decoration: none;
+  padding-top: 20px;
+}
+
+.font-categori:hover {
+  color: #141414;
+}
+
+.font-categori2 {
+  color: #141414;
+  font-size: 18px;
+  font-family: "Hind Madurai", sans-serif;
+  font-weight: 400;
+  text-decoration: none;
+}
+
+.font-categori2:hover {
+  color: #141414;
+}
+
+.icon-categori {
+  font-size: 50px;
+}
+
+.container {
+  min-width: 900px;
+}
+/*Style categori*/
